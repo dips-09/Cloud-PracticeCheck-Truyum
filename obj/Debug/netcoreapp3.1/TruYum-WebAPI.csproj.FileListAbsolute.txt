@@ -1,0 +1,388 @@
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.exe
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.csprojAssemblyReference.cache
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.AssemblyInfoInputs.cache
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.AssemblyInfo.cs
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.RazorTargetAssemblyInfo.cache
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TruYum-WebAPI.StaticWebAssets.Manifest.cache
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TruYum-WebAPI.StaticWebAssets.xml
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.csproj.CopyComplete
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.deps.json
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.runtimeconfig.json
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.runtimeconfig.dev.json
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.pdb
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.dll
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.pdb
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.genruntimeconfig.cache
+F:\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.csproj.CoreCompileInputs.cache
+F:\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.exe
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.deps.json
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.runtimeconfig.json
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.runtimeconfig.dev.json
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.pdb
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.csprojAssemblyReference.cache
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.AssemblyInfoInputs.cache
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.AssemblyInfo.cs
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.csproj.CoreCompileInputs.cache
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.RazorTargetAssemblyInfo.cache
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.csproj.CopyComplete
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TruYum-WebAPI.StaticWebAssets.Manifest.cache
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TruYum-WebAPI.StaticWebAssets.xml
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.dll
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.pdb
+F:\Cognizant Files\Stage 4- CTS\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.genruntimeconfig.cache
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.exe
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.deps.json
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.runtimeconfig.json
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.runtimeconfig.dev.json
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\TruYum-WebAPI.pdb
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.csprojAssemblyReference.cache
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.AssemblyInfoInputs.cache
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.AssemblyInfo.cs
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.RazorTargetAssemblyInfo.cache
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.csproj.CopyComplete
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TruYum-WebAPI.StaticWebAssets.Manifest.cache
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\TruYum-WebAPI.StaticWebAssets.xml
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.dll
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.pdb
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\TruYum-WebAPI\obj\Debug\netcoreapp3.1\TruYum-WebAPI.genruntimeconfig.cache
